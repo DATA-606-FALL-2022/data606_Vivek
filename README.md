@@ -1,6 +1,9 @@
 # PROJECT - Chicago Car Crashes
 _____________________________________________________________________________________________________________
 
+![Trip-Neighborhoods-HERO-2048x1302](https://user-images.githubusercontent.com/78184393/208225930-5e04d211-e896-4ede-b0a3-74dd803726ac.jpg)
+
+
 ## DATASET DESCRIPTION
 ______________________________________________________________________________________________________________
 Using the data from "Chicago Car Crash Dataset" which has  more than 569700 records. The dataset has details of date and time of accident occurred, location and cause of accidents and so. This dataset can be available from chicago government webbsite. This dataset consist of lot of missing values.
