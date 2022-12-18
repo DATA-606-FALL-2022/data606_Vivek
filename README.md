@@ -39,3 +39,8 @@ Looking to explore the dataset a little more to reduce the number of crashes.
 ## POWERPOINT PRESENTATION LINK
 ________________________________________________________________________________________________________________
 - https://github.com/DATA-606-FALL-2022/data606_Vivek/blob/main/MYPPT1.pptx
+
+
+## YOUTUBE VIDEO LINK
+_____________________________________________________________________________________________________________________________
+- https://youtu.be/I503_ugaIPc
