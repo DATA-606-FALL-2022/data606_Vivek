@@ -40,7 +40,15 @@ Looking to explore the dataset a little more to reduce the number of crashes.
 ________________________________________________________________________________________________________________
 - https://github.com/DATA-606-FALL-2022/data606_Vivek/blob/main/MYPPT1.pptx
 
-
 ## YOUTUBE VIDEO LINK
 _____________________________________________________________________________________________________________________________
 - https://youtu.be/I503_ugaIPc
+
+### EDA BEFORE CLEANING
+https://github.com/DATA-606-FALL-2022/data606_Vivek/blob/main/EDAbeforecleaning606.ipynb
+
+### EDA AFTER CLEANING
+https://github.com/DATA-606-FALL-2022/data606_Vivek/blob/main/Vivek_Pandeyfinalproject606EDA%20(1).ipynb
+
+### MODELING
+https://github.com/DATA-606-FALL-2022/data606_Vivek/blob/main/Vivek_Pandeyfinalproject606Modeling.ipynb
