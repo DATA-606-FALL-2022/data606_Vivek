@@ -44,11 +44,13 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________________
 - https://youtu.be/I503_ugaIPc
 
+## OTHER IMP LINKS
+____________________________________________________________________________________________________________________________
 ### EDA BEFORE CLEANING
-https://github.com/DATA-606-FALL-2022/data606_Vivek/blob/main/EDAbeforecleaning606.ipynb
+- https://github.com/DATA-606-FALL-2022/data606_Vivek/blob/main/EDAbeforecleaning606.ipynb
 
 ### EDA AFTER CLEANING
-https://github.com/DATA-606-FALL-2022/data606_Vivek/blob/main/Vivek_Pandeyfinalproject606EDA%20(1).ipynb
+- https://github.com/DATA-606-FALL-2022/data606_Vivek/blob/main/Vivek_Pandeyfinalproject606EDA%20(1).ipynb
 
 ### MODELING
-https://github.com/DATA-606-FALL-2022/data606_Vivek/blob/main/Vivek_Pandeyfinalproject606Modeling.ipynb
+- https://github.com/DATA-606-FALL-2022/data606_Vivek/blob/main/Vivek_Pandeyfinalproject606Modeling.ipynb
